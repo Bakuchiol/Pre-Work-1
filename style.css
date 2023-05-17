@@ -169,7 +169,7 @@ body{
         width: 100%;
     }
     .nav, .aside, .content {
-        overflow-y: scroll !important;
+        overflow-y: scroll;
     }
     .header h1 {
         float: left;
